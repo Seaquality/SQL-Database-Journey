@@ -17,7 +17,14 @@ JSON was also included in this week's learning and so far we have gone over the 
 **QUERY AND MANAGE XML DATA | 10-20-23**
 
 Another topic I studied this week is the crossover between XML data and SQL. Most of it has been straightforward and XML seems very simple 
-and relateable to prior things I learned while I was in college. The SubTopics I have gone over are Attributes, XML variables and fields, FOR XML RAW, AUTO, PATH, and, EXPLICIT.
+and relatable to prior things I learned while I was in college. Topics learned included the following:
+- Attributes
+- XML variables and fields
+- FOR XML RAW
+- FOR XML AUTO
+- FOR XML PATH
+- FOR XML EXPLICIT
+
 
 
 **CTE/SUBS | 10-18-23 week 1**
