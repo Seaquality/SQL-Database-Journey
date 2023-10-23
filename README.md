@@ -12,6 +12,7 @@ JSON was also included in this week's learning and so far we have gone over the 
 - Convert JSON data into SQL Server Tables
 - Convert SQL Server data into JSON
 
+---
 
 **QUERY AND MANAGE XML DATA | 10-20-23**
 
