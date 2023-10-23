@@ -1,4 +1,4 @@
-# SQL-Database-Learning Documentation
+# SQL Database Learning Documentation
 Documenting my SQL learning journey and other database stuff
 
 **JSON AND MORE XML LEARNING | 10-23-23 week 2**
