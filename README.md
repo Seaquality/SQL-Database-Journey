@@ -1,6 +1,22 @@
 # SQL Database Learning Documentation
 Documenting my SQL learning journey and other database stuff
 
+**DBA ADMINISTRATION | 12/12/2023**
+I've now moved on to Database Administration topics. This week I've been learning about managing logins and how server roles operate. The topics we have
+gone over include the following:
+- Creating Logins
+- Managing access to servers and securing the server with roles
+- Create and maintain user-defined roles
+- Create Database user accounts
+- Fixed Database-Level Roles
+- User Database-Level Roles
+- Creating and using Schemas
+- Creating access to server/database with the least privilege
+- Protecting Objects from being modified
+- Manage logins and server roles
+
+---
+
 **INDEXES AND TRANSACTIONS | 10-25-23**
 
 The next sections I have gone over included indexes and transactions. Since my employment started I've learned quite a bit about database work. This work
